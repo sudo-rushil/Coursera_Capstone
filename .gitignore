@@ -1,4 +1,5 @@
 .ipynb_checkpoints/
+images/*.pdf
 report/
 tutorials/
 **/.DS_Store
